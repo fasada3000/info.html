@@ -1,0 +1,111 @@
+body {
+    font-family: sans-serif;
+    background-color: white;
+    color: black;
+    margin: ;
+
+}
+main {}
+
+
+header img{ width:  100px; ;
+    
+}
+
+.button { float: right;  
+ text-decoration: none;
+    background-color: rgb(154, 156, 25);
+    color: white;
+    margin-left: 17px;
+    padding: 20px;
+    border-radius: 20%;
+}
+
+nav {
+    margin:  3px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(46, 18, 2);
+    padding: 10px;
+   
+    
+}
+
+.nav-link {
+    text-decoration: none;
+    background-color: rgb(154, 156, 25);
+    color: white;
+    margin-left: 17px;
+    padding: 20px;
+    border-radius: 20%;
+
+}
+
+h1 {
+
+}
+
+
+.info { display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+   
+}
+
+article {
+   
+}
+
+.article-but {
+    text-decoration: none;
+    color: white;
+    background-color: red;
+    padding: 5px 10px;
+    border-radius: 10%;
+    
+    
+}
+
+
+
+footer a {
+    
+}
+
+footer p {
+}
+.THEWORLD {display: flex;
+justify-content: center;}
+.Cena a{text-decoration: none;
+color: white;
+background-color: blue;
+padding: 10px;
+border-radius: 10%;}
+main img {border-radius: 10%;}
+.stalker {
+    border: 3px double rgb(75, 108, 14);
+    width: 450px;
+    display: flex;
+    flex-direction: column;
+    align-items:center ;
+    justify-content: space-evenly;
+    margin: 15px;
+    padding: 7px;
+    
+}
+.teza {display: flex;
+flex-wrap: nowrap;
+justify-content: space-between;
+padding: 10px;
+}
+ul{
+    width: 50%;
+
+}
+.teza {background-color: antiquewhite;
+display: flex;
+flex-wrap: nowrap;
+justify-content: space-around;}
+.zak {width: 500px;
+display: flex;
+justify-content: center;}
